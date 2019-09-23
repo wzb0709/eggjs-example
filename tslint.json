@@ -4,6 +4,7 @@
     "whitespace": false,
     "no-trailing-whitespace": false,
     "semicolon": false,
-    "object-curly-spacing": false
+    "object-curly-spacing": false,
+    "linebreak-style": false
   }
 }
