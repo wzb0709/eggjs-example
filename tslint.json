@@ -1,0 +1,9 @@
+{
+  "extends": ["tslint-config-egg"],
+  "rules": {
+    "whitespace": false,
+    "no-trailing-whitespace": false,
+    "semicolon": false,
+    "object-curly-spacing": false
+  }
+}
