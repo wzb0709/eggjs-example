@@ -4,10 +4,12 @@
 import 'egg';
 import ExportProduct from '../../../app/service/product';
 import ExportTest from '../../../app/service/Test';
+import ExportUser from '../../../app/service/user';
 
 declare module 'egg' {
   interface IService {
     product: ExportProduct;
     test: ExportTest;
+    user: ExportUser;
   }
 }

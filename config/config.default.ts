@@ -16,11 +16,8 @@ export default (appInfo: EggAppInfo) => {
     host: '106.52.132.243',
     port: 3306,
     password: 'Lysb#123',
-    database: 'frame',
+    database: 'book',
     timezone: '+08:00',
-    define: {
-      timestamps: false,
-    },
   };
   const bizConfig = {
     sourceUrl: `https://github.com/eggjs/examples/tree/master/${appInfo.name}`,

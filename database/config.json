@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "root",
+    "password": "Lysb#123",
+    "database": "book",
+    "host": "106.52.132.243",
+    "dialect": "mysql",
+    "operatorsAliases": false
+  },
+  "test": {
+    "username": "root",
+    "password": "Lysb#123",
+    "database": "book_test",
+    "host": "106.52.132.243",
+    "dialect": "mysql",
+    "operatorsAliases": false
+  },
+  "production": {
+    "username": "root",
+    "password": "Lysb#123",
+    "database": "book",
+    "host": "106.52.132.243",
+    "dialect": "mysql",
+    "operatorsAliases": false
+  }
+}
